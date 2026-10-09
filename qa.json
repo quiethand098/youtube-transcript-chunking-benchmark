@@ -1,0 +1,427 @@
+[
+[
+"zjkBMFhNj_g",
+"Why is training an LLM compared to compressing the internet?",
+"compression of a good chunk of Internet"
+],
+[
+"zjkBMFhNj_g",
+"How many GPUs and how many days does it take to train Llama 2 70B, and what does it cost?",
+"about 12 days uh to get a llama 270b and this would cost you about $2 million"
+],
+[
+"zjkBMFhNj_g",
+"How expensive are state-of-the-art training runs today?",
+"many tens or even potentially hundreds of millions of dollars"
+],
+[
+"zjkBMFhNj_g",
+"Which Wikipedia page was used as the example of next word prediction?",
+"about Ruth Handler"
+],
+[
+"zjkBMFhNj_g",
+"Is the knowledge stored inside the network clean and reliable?",
+"knowledge database is very strange and imperfect and weird"
+],
+[
+"zjkBMFhNj_g",
+"Why do labs keep training bigger models for longer?",
+"train a bigger model for longer and we are very confident we're going to get a better result"
+],
+[
+"zjkBMFhNj_g",
+"Why should the model use a calculator instead of doing math in its head?",
+"you and I are not very good at math"
+],
+[
+"zjkBMFhNj_g",
+"What is tool use and why does it matter for LLMs?",
+"tool use is a major aspect in how these models are becoming a lot more"
+],
+[
+"zjkBMFhNj_g",
+"What is the customization axis of LLM improvement?",
+"the axis of customization so as you can imagine the economy has like nooks and crannies"
+],
+[
+"zjkBMFhNj_g",
+"Which capabilities will a future LLM operating system have, such as images, audio and music?",
+"it can hear and speak and generate music"
+],
+[
+"zjkBMFhNj_g",
+"How does the grandmother roleplay jailbreak work?",
+"roleplay our grandmother who loved us"
+],
+[
+"zjkBMFhNj_g",
+"What does the prompt injection example with the Amazon gift card say?",
+"Amazon gift card voucher of 200 USD"
+],
+[
+"kCc8FmEb1nY",
+"Which dataset is used to train the model in the GPT from scratch video?",
+"generate infinite Shakespeare"
+],
+[
+"kCc8FmEb1nY",
+"What tokenizer does Google use?",
+"Google uses a sentence piece"
+],
+[
+"kCc8FmEb1nY",
+"How is the text turned into a PyTorch tensor?",
+"encode it and then wrap it into a torch. tensor"
+],
+[
+"kCc8FmEb1nY",
+"Why does one block of characters give many training examples at once?",
+"simultaneously train it to make prediction at every one of"
+],
+[
+"kCc8FmEb1nY",
+"How do the targets y relate to the inputs x in the data loader?",
+"y are the targets for each position in the input"
+],
+[
+"kCc8FmEb1nY",
+"How do you run training on the GPU with CUDA?",
+"when we create the model we want to move uh the model parameters to device"
+],
+[
+"kCc8FmEb1nY",
+"Why can't tokens get information from future positions?",
+"we cannot get any information from the future"
+],
+[
+"kCc8FmEb1nY",
+"What makes attention self-attention as opposed to general attention?",
+"attention is a lot more General"
+],
+[
+"kCc8FmEb1nY",
+"Why is the attention scaled by one over the square root of the head size?",
+"feed into softmax and so it's really important"
+],
+[
+"kCc8FmEb1nY",
+"Do the key, query and value linear layers use bias?",
+"typically people don't use biases in these"
+],
+[
+"kCc8FmEb1nY",
+"How much did the validation loss improve after scaling up the network?",
+"went from 2.07 all the way down to 1.48"
+],
+[
+"kCc8FmEb1nY",
+"What makes this transformer a decoder?",
+"what makes it a decoder is that we are using the Triangular mask"
+],
+[
+"SxdOUGdseq4",
+"What is the third aspect of being easy that people don't think about enough?",
+"being near to our capabilities"
+],
+[
+"SxdOUGdseq4",
+"How many balls can you juggle - what limits our understanding?",
+"our understanding is very limited"
+],
+[
+"SxdOUGdseq4",
+"Is installing a tool the location aspect of easy?",
+"making something at hand, putting it in our tool kit"
+],
+[
+"SxdOUGdseq4",
+"Why does having thing A call thing B complect them?",
+"if thing A calls thing B you just complected it"
+],
+[
+"SxdOUGdseq4",
+"What do you need to develop instead of relying on guard rails?",
+"you have to have entanglement radar"
+],
+[
+"wjZofJX0v4M",
+"What is the demo of running GPT-2 on a laptop to generate a story?",
+"running GPT-2 on my laptop"
+],
+[
+"wjZofJX0v4M",
+"Do I need to watch the earlier chapters before the transformer one?",
+"you can do it out of order"
+],
+[
+"wjZofJX0v4M",
+"What are tokens - words or something else?",
+"pieces of words or punctuation"
+],
+[
+"wjZofJX0v4M",
+"What is the total parameter count we should count up to?",
+"count up to 175 billion"
+],
+[
+"wjZofJX0v4M",
+"How does the embedding of the word king change as it passes through the network?",
+"started its life as the embedding of the word king"
+],
+[
+"zjkBMFhNj_g",
+"How do companies collect fine-tuning data?",
+"a company will hire people and they will give them labeling instructions"
+],
+[
+"zjkBMFhNj_g",
+"Who decides what the ideal assistant response looks like?",
+"fills in what the ideal response should be"
+],
+[
+"zjkBMFhNj_g",
+"Do LLMs have system 2 thinking?",
+"currently only have a system one"
+],
+[
+"zjkBMFhNj_g",
+"How did AlphaGo learn in its first stage?",
+"learn by imitating human expert players"
+],
+[
+"zjkBMFhNj_g",
+"What is the GPTs app store announced by Sam Altman?",
+"announced the gpts App Store"
+],
+[
+"zjkBMFhNj_g",
+"What is the open source LLM ecosystem based on?",
+"mostly based on the Llama series"
+],
+[
+"zjkBMFhNj_g",
+"Can different jailbreaks be combined?",
+"combinations of them can be very potent"
+],
+[
+"zjkBMFhNj_g",
+"Where does the nonsense suffix in the universal transferable attack come from?",
+"comes from an optimized ation that these researchers Ran"
+],
+[
+"kCc8FmEb1nY",
+"What notebook environment is used to share the code?",
+"Google collab uh jup notebook"
+],
+[
+"kCc8FmEb1nY",
+"How many tokens does the GPT-2 tiktoken vocabulary have compared to characters?",
+"they have 50,000 tokens"
+],
+[
+"kCc8FmEb1nY",
+"Why does the cross entropy call throw an error at first?",
+"this won't actually run we get an error message"
+],
+[
+"kCc8FmEb1nY",
+"How does softmax act on each row of the attention matrix?",
+"softmax is um is also like a normalization operation"
+],
+[
+"kCc8FmEb1nY",
+"Why do we need positional encodings?",
+"anchored to a specific position so that they sort of know where they are"
+],
+[
+"kCc8FmEb1nY",
+"What loss did lowering the learning rate reach compared to 2.5?",
+"previously we were only able to get to up to 2.5"
+],
+[
+"kCc8FmEb1nY",
+"How are the outputs of multiple heads combined?",
+"concatenating over the channel Dimension"
+],
+[
+"kCc8FmEb1nY",
+"What do gamma and beta do in layer norm?",
+"normalizes the features and makes them a unit mean"
+],
+[
+"kCc8FmEb1nY",
+"Where is dropout applied in the transformer?",
+"we can drop out uh here at the end of the multi-headed"
+],
+[
+"kCc8FmEb1nY",
+"Which parameters get weight decay in nanoGPT?",
+"separating out the parameters into those that should be weight decayed"
+],
+[
+"kCc8FmEb1nY",
+"What is the second fine-tuning stage for ChatGPT?",
+"align it to be an assistant"
+],
+[
+"kCc8FmEb1nY",
+"What is the reward model trained to predict?",
+"train a reward model"
+],
+[
+"8pTEmbeENF4",
+"What old IBM computer is mentioned as an example?",
+"the old IBM 650"
+],
+[
+"8pTEmbeENF4",
+"How did people program in absolute binary?",
+"writing numeric codes for each instruction"
+],
+[
+"8pTEmbeENF4",
+"Why was von Neumann furious about the assembler?",
+"von neumann was furious at him"
+],
+[
+"8pTEmbeENF4",
+"Who was working on Unix at Bell Labs?",
+"Ken Thompson"
+],
+[
+"8pTEmbeENF4",
+"Why is goal-directed programming important for the internet?",
+"goal directed stuff is gonna be so important"
+],
+[
+"8pTEmbeENF4",
+"How was code organized in a spatial fashion instead of a long text file?",
+"organized in a spatial fashion"
+],
+[
+"8pTEmbeENF4",
+"Who came up with the actor model?",
+"came up with this idea that he called the actor model"
+],
+[
+"aircAruvnKk",
+"How many input neurons does the digit network have?",
+"784 neurons in total"
+],
+[
+"aircAruvnKk",
+"How could a neuron detect an edge using weights?",
+"negative weights associated with the surrounding pixels"
+],
+[
+"aircAruvnKk",
+"How many parameters does the digit recognition network have?",
+"13,000 parameters"
+],
+[
+"aircAruvnKk",
+"How does parsing speech break into layers of abstraction?",
+"Parsing speech, for example, involves taking raw audio"
+],
+[
+"aircAruvnKk",
+"What does ReLU stand for and why is it used instead of sigmoid?",
+"rectified linear unit"
+],
+[
+"aircAruvnKk",
+"Who is the guest with a PhD at the end of the video?",
+"Lisha Li"
+],
+[
+"UF8uR6Z6KLc",
+"What college did Jobs choose and how expensive was it?",
+"almost as expensive as Stanford"
+],
+[
+"UF8uR6Z6KLc",
+"What would personal computers lack without the calligraphy class?",
+"no personal computer would have them"
+],
+[
+"UF8uR6Z6KLc",
+"Can you connect the dots looking forward?",
+"impossible to connect the dots looking forward"
+],
+[
+"UF8uR6Z6KLc",
+"What did Jobs think about doing after being fired from Apple?",
+"thought about running away from the valley"
+],
+[
+"UF8uR6Z6KLc",
+"What is the advice about finding work you love?",
+"So keep looking. Don't settle."
+],
+[
+"UF8uR6Z6KLc",
+"How long did doctors say Jobs had to live after the cancer diagnosis?",
+"three to six months"
+],
+[
+"UF8uR6Z6KLc",
+"Why did the doctors start crying when looking at the cells?",
+"the doctors started crying"
+],
+[
+"UF8uR6Z6KLc",
+"How was the Whole Earth Catalog made?",
+"typewriters, scissors, and polaroid cameras"
+],
+[
+"SxdOUGdseq4",
+"Why do businesses focus on familiarity and the first two aspects of easy?",
+"it makes programmers replaceable"
+],
+[
+"SxdOUGdseq4",
+"Is programming like playing the violin?",
+"because I don't play the violin at all"
+],
+[
+"SxdOUGdseq4",
+"Are programmers looking at the downsides of their tools?",
+"not looking carefully enough at the byproducts"
+],
+[
+"SxdOUGdseq4",
+"Where does the word complect come from?",
+"there's this really cool word called complect"
+],
+[
+"SxdOUGdseq4",
+"Is programming about typing?",
+"programming is not about typing, it's about thinking"
+],
+[
+"wjZofJX0v4M",
+"What are text-to-image tools based on?",
+"produce an image are based on transformers"
+],
+[
+"wjZofJX0v4M",
+"What happens when you interact with ChatGPT?",
+"repeated prediction and sampling is essentially what's happening when you interact with ChatGPT"
+],
+[
+"wjZofJX0v4M",
+"What lets the vectors talk to each other?",
+"known as an attention block"
+],
+[
+"wjZofJX0v4M",
+"What training algorithm do all deep learning models share?",
+"it's called backpropagation"
+],
+[
+"wjZofJX0v4M",
+"Which color represents weights versus data in the diagrams?",
+"The weights are the actual brains"
+]
+]

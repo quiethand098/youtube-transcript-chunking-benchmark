@@ -1,0 +1,16 @@
+== size 500
+  fixed+20%overlap  title_prefix=False chunks=804 dense@1=35/85 dense@3=56/85 bm25@3=64/85 top1_wrong_video=8/85
+  fixed+20%overlap  title_prefix=True  chunks=804 dense@1=35/85 dense@3=60/85 bm25@3=65/85 top1_wrong_video=7/85
+  actor_v1          title_prefix=False chunks=470 dense@1=41/85 dense@3=57/85 bm25@3=59/85 top1_wrong_video=12/85
+  actor_v1          title_prefix=True  chunks=470 dense@1=41/85 dense@3=56/85 bm25@3=59/85 top1_wrong_video=7/85
+  pause_aware_v2    title_prefix=False chunks=669 dense@1=45/85 dense@3=62/85 bm25@3=67/85 top1_wrong_video=9/85
+  pause_aware_v2    title_prefix=True  chunks=669 dense@1=46/85 dense@3=62/85 bm25@3=68/85 top1_wrong_video=7/85
+== size 1000
+  fixed+20%overlap  title_prefix=False chunks=405 dense@1=45/85 dense@3=62/85 bm25@3=69/85 top1_wrong_video=13/85
+  fixed+20%overlap  title_prefix=True  chunks=405 dense@1=47/85 dense@3=63/85 bm25@3=73/85 top1_wrong_video=8/85
+  actor_v1          title_prefix=False chunks=254 dense@1=49/85 dense@3=64/85 bm25@3=68/85 top1_wrong_video=13/85
+  actor_v1          title_prefix=True  chunks=254 dense@1=51/85 dense@3=66/85 bm25@3=68/85 top1_wrong_video=10/85
+  pause_aware_v2    title_prefix=False chunks=333 dense@1=35/85 dense@3=57/85 bm25@3=69/85 top1_wrong_video=13/85
+  pause_aware_v2    title_prefix=True  chunks=333 dense@1=43/85 dense@3=58/85 bm25@3=69/85 top1_wrong_video=11/85
+== size 2000
+  fixed+20%overlap  title_prefix=False chunks=204 dense@1=37/85 dense@3=60/85 bm25@3=73/85 top1_wrong_video=19/85

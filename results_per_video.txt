@@ -1,0 +1,15 @@
+== target chunk size 500
+fixed              chunks= 643 | asr n=44 answer-split=5/44 dense@1=19/44 dense@3=32/44 bm25@3=31/44 | man n=41 answer-split=2/41 dense@1=25/41 dense@3=33/41 bm25@3=33/41
+fixed+20%overlap   chunks= 804 | asr n=44 answer-split=0/44 dense@1=16/44 dense@3=30/44 bm25@3=34/44 | man n=41 answer-split=0/41 dense@1=19/41 dense@3=33/41 bm25@3=34/41
+actor_v1           chunks= 470 | asr n=44 answer-split=2/44 dense@1=19/44 dense@3=29/44 bm25@3=31/44 | man n=41 answer-split=0/41 dense@1=22/41 dense@3=32/41 bm25@3=36/41
+pause_aware_v2     chunks= 669 | asr n=44 answer-split=0/44 dense@1=20/44 dense@3=32/44 bm25@3=34/44 | man n=41 answer-split=0/41 dense@1=26/41 dense@3=34/41 bm25@3=36/41
+== target chunk size 1000
+fixed              chunks= 324 | asr n=44 answer-split=0/44 dense@1=18/44 dense@3=31/44 bm25@3=37/44 | man n=41 answer-split=1/41 dense@1=24/41 dense@3=32/41 bm25@3=35/41
+fixed+20%overlap   chunks= 405 | asr n=44 answer-split=0/44 dense@1=25/44 dense@3=35/44 bm25@3=38/44 | man n=41 answer-split=0/41 dense@1=25/41 dense@3=33/41 bm25@3=36/41
+actor_v1           chunks= 254 | asr n=44 answer-split=3/44 dense@1=26/44 dense@3=34/44 bm25@3=37/44 | man n=41 answer-split=0/41 dense@1=25/41 dense@3=35/41 bm25@3=36/41
+pause_aware_v2     chunks= 333 | asr n=44 answer-split=1/44 dense@1=18/44 dense@3=29/44 bm25@3=35/44 | man n=41 answer-split=0/41 dense@1=24/41 dense@3=32/41 bm25@3=36/41
+== target chunk size 2000
+fixed              chunks= 165 | asr n=44 answer-split=0/44 dense@1=20/44 dense@3=35/44 bm25@3=43/44 | man n=41 answer-split=0/41 dense@1=21/41 dense@3=32/41 bm25@3=36/41
+fixed+20%overlap   chunks= 204 | asr n=44 answer-split=0/44 dense@1=23/44 dense@3=36/44 bm25@3=42/44 | man n=41 answer-split=0/41 dense@1=18/41 dense@3=33/41 bm25@3=35/41
+actor_v1           chunks= 137 | asr n=44 answer-split=1/44 dense@1=18/44 dense@3=27/44 bm25@3=43/44 | man n=41 answer-split=0/41 dense@1=19/41 dense@3=35/41 bm25@3=34/41
+pause_aware_v2     chunks= 163 | asr n=44 answer-split=0/44 dense@1=22/44 dense@3=30/44 bm25@3=42/44 | man n=41 answer-split=0/41 dense@1=21/41 dense@3=32/41 bm25@3=36/41

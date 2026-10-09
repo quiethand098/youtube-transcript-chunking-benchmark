@@ -1,0 +1,4 @@
+apify-client
+fastembed
+rank_bm25
+numpy
