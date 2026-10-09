@@ -16,6 +16,7 @@ python fetch.py                   # -> transcripts.json
 python words.py                   # -> asr_words.json (word-level timings for auto captions)
 python exp.py 500 1000 2000       # per-video index
 python exp2.py                    # one index over all videos, with/without title prefix
+python mcp_probe.py               # what an MCP client receives (payload sizes, nested field projection)
 ```
 
 Results from my run are in `results_per_video.txt` and `results_global_index.txt`. With 85 questions, differences of about 5 are within noise.
